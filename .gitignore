@@ -11,3 +11,26 @@ Makefile.in
 /depcomp
 /install-sh
 /missing
+
+# Backup files
+
+*~
+
+# Compiled Object files
+
+*.o
+*.lo
+*.slo
+
+# Compiled Dynamic libraries
+
+*.so
+*.dylib
+
+# Compiled Static libraries
+
+*.a
+*.la
+*.lai
+
+# End of file
